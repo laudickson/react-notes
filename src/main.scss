@@ -1,2 +1,7 @@
 @import 'stylesheets/Colors';
 @import 'stylesheets/App';
+
+#app{
+  height: 100%;
+  font-size: calc(1em+2vw);
+}
